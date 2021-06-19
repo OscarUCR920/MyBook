@@ -1,0 +1,15 @@
+ion-slides {
+    height: 100%;
+  }
+
+.bg-tap1{
+    background-image: url('/assets/images/myself.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    /* Add the blur effect */
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    padding: 10px;
+}
